@@ -8,7 +8,7 @@ Welcome to my portfolio! Here, I showcase the projects I’ve built using **HTML
 - **JavaScript**: For adding interactivity to the projects.
 
 ## Projects
-1. **Component**: A brief description of what the project is about.
+1. **Result Summary Component**: A brief description of what the project is about.
 2. **Tic-Tac-Toe**: A brief description of what the project is about.
 3. **Project 3**: A brief description of what the project is about.
 4. **Project 4**: A brief description of what the project is about.
