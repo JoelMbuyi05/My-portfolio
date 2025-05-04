@@ -6,6 +6,7 @@ Welcome to my portfolio! Here, I showcase the projects I’ve built using **HTML
 - **HTML**: For building the structure of the pages.
 - **CSS**: For styling and creating a responsive design.
 - **JavaScript**: For adding interactivity to the projects.
+- **Firebase**: For real-time databases.
 
 ## Projects
 1. **Result Summary Component**: This project is a Result Summary Component, designed using only HTML and CSS. It replicates a visually appealing UI element commonly found in modern web applications.
