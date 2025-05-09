@@ -19,4 +19,4 @@ Live Demo
 Visit the live version of my portfolio at [https://mbuyi.vercel.app]
 
 Contact
-If you’d like to get in touch, you can reach me at [joelmbuyi700@gmil.com].
+If you’d like to get in touch, you can reach me at [joelmbuyi700@gmil.com]
