@@ -604,14 +604,16 @@ body{
         opacity: 1;
         transform: translateY(0);
     }
-    /*.navbar-links li a{
+    .navbar-links li a{
         display: block;
+        position: relative;
+        bottom: 30px;
         width: 100%;
         color: #fff;
         text-decoration: none;
-        font-size: 1rem;
+        font-size: 1.3rem;
         transition: color 0.3s;
-    }*/
+    }
     .navbar-links li a:hover{
         color:#f95849;
     }
@@ -640,27 +642,33 @@ body{
     .main-paragraph span:nth-child(1){
         position: relative;
         bottom: 8px;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
     .main-paragraph span:nth-child(3){
-        font-size: 2.2rem;
+        font-size: 2.5rem;
     }
     .main-paragraph span:nth-child(5){
-        font-size: 0.9rem;
+        font-size: 1.3rem;
     }
     .main-btn{
         display: inline-block;
         margin-top: 100px;
     }
     .main-btn a{
-        font-size: 0.7rem;
+        font-size: 1rem;
         margin-right: 10px;
     }
     .main-btn a:nth-child(2){
         margin-right: 5px;
     }
     #about{
-        margin-bottom: 30px;
+        margin-bottom: 70px;
+    }
+    .skills-mainHeading,
+    .education-heading,
+    .projects-heading,
+    .contact-heading{
+        font-size: 2.2rem;
     }
     .projects-container{
         display: grid;
