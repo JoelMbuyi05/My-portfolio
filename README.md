@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio!!
+Welcome to my portfolio !!!
 Here, I showcase the projects I’ve built using **HTML**, **CSS**, **JavaScript** and **Firebase**.
 
 ## Technologies Used
@@ -20,4 +20,4 @@ Live Demo
 Visit the live version of my portfolio at [https://mbuyi.vercel.app]
 
 Contact
-If you’d like to get in touch, you can reach me at [joelmbuyi700@gmil.com]
+If you’d like to get in touch, you can reach me at [joelmbuyi700@gmil.com] & [https://www.linkedin.com/in/joelmbuyi05/]
