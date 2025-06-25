@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio !!!
+Welcome to my portfolio
 Here, I showcase the projects I’ve built using **HTML**, **CSS**, **JavaScript** and **Firebase**.
 
 ## Technologies Used
