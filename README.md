@@ -20,4 +20,5 @@ Live Demo
 Visit the live version of my portfolio at [https://mbuyi.vercel.app]
 
 Contact
-If you’d like to get in touch, you can reach me at [joelmbuyi700@gmail.com] & [https://www.linkedin.com/in/joelmbuyi05/]
+If you’d like to get in touch, you can reach me at:
+[joelmbuyi700@gmail.com] & [https://www.linkedin.com/in/joelmbuyi05/]
