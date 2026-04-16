@@ -17,10 +17,10 @@ Here, I showcase the projects I’ve built using **HTML**, **CSS**, **JavaScript
 
 Each project is crafted with a focus on user experience, clean code, and functionality.
 
-Live Demo
+Live Demo: 
 Visit the live version of my portfolio at [https://mbuyi.vercel.app]
 
-Contact
+Contact: 
 If you’d like to get in touch, you can reach me at :
 [joelmbuyi700@gmail.com] &
 [https://www.linkedin.com/in/joelmbuyi05/]
